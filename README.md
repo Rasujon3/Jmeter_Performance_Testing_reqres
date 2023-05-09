@@ -10,4 +10,4 @@ Test executed for the below mentioned scenario in server https://reqres.in.
 ```diff
 - While executed 100 concurrent request, found  1 request got connection timeout and error rate is 0.13%.
 ```
-**Summary:** Server can handle almost concurrent 80 API call with almost zero (0) error rate.
+**Summary:** Server can handle almost concurrent 780 API call with almost zero (0) error rate.
