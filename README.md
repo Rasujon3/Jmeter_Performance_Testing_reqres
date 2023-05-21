@@ -11,3 +11,5 @@ Test executed for the below mentioned scenario in server https://reqres.in.
 - While executed 100 concurrent request, found  1 request got connection timeout and error rate is 0.13%.
 ```
 **Summary:** Server can handle almost concurrent 780 API call with almost zero (0) error rate.
+Report Image:
+![reqres](https://github.com/Rasujon3/Jmeter_Performance_Testing_reqres/assets/61946723/51d4f51f-c3cb-461f-8f94-a5f03e81a601)
